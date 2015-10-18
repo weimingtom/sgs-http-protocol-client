@@ -1,0 +1,1 @@
+A simple javascript client for use with the sgs-http-protocol (https://code.google.com/p/sgs-http-protocol/)
